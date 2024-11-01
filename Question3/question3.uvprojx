@@ -49,7 +49,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>question2</OutputName>
+          <OutputName>question3</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>0</CreateHexFile>
@@ -385,11 +385,6 @@
           <GroupName>Source Group 1</GroupName>
           <Files>
             <File>
-              <FileName>question2.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\question2.s</FilePath>
-            </File>
-            <File>
               <FileName>core_cm4_constants.s</FileName>
               <FileType>2</FileType>
               <FilePath>.\core_cm4_constants.s</FilePath>
@@ -403,6 +398,11 @@
               <FileName>stm32l476xx_constants.s</FileName>
               <FileType>2</FileType>
               <FilePath>.\stm32l476xx_constants.s</FilePath>
+            </File>
+            <File>
+              <FileName>question3.s</FileName>
+              <FileType>2</FileType>
+              <FilePath>.\question3.s</FilePath>
             </File>
           </Files>
         </Group>
