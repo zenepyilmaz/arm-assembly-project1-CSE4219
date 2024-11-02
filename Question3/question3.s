@@ -73,7 +73,8 @@ __main PROC
 			LDR R1, =pzero
 			BL func
 			ADD R0, R0, R5
-			
+			MOV R8, R0
+			MOV R9, #0
 		ENDP 
 
 		AREA myData, DATA, READWRITE 
