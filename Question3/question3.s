@@ -73,7 +73,6 @@ __main PROC
 			LDR R1, =pzero
 			BL func
 			ADD R0, R0, R5
-			ADD R0, R0, #0
 			
 		ENDP 
 
