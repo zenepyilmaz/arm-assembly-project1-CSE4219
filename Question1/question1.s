@@ -68,8 +68,8 @@ exit
 
 		AREA myData, DATA , READWRITE
 		ALIGN
-a		DCD 10
-n 		DCD 1
+a		DCD 3
+n 		DCD 5
 
 		
 
